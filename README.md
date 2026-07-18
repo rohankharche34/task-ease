@@ -1,6 +1,5 @@
 # TaskEase - Premium Task Management System
 
-![TaskEase Banner](https://via.placeholder.com/1200x400/0f1015/8b5cf6?text=TaskEase+-+Premium+Task+Management)
 
 TaskEase is a modern, full-stack Task Management System featuring a highly interactive Kanban board, real-time drag-and-drop, and a stunning glassmorphism UI. It is built to be fast, responsive, and aesthetically pleasing.
 
@@ -89,6 +88,3 @@ task-ease/
     ├── vite.config.js
     └── package.json
 ```
-
-## 📝 License
-This project is open-source and available under the [MIT License](LICENSE).
